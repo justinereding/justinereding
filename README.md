@@ -19,8 +19,6 @@ I love building software, exploring new technologies, and solving real-world pro
 
 ## 🛠️ Skills & Tools
 
-## 🛠️ Skills & Tools
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
